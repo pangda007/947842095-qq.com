@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T02:46:09.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" etag="0ZupbuQGNz0EGOuxXZgg" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T02:46:49.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" etag="E4Z5mJFXxj9xwtJhcxK6" version="24.0.1" type="github" pages="2">
   <diagram id="o-U5pev5LdMY_j02ZvJb" name="第 2 页">
     <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -152,20 +152,20 @@
         <mxCell id="ZtzZdpi0WHG9_yZybd37-10" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;变分去噪项&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="256" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oBNHKhxLae9ahd_uvuSW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZtzZdpi0WHG9_yZybd37-15" target="ZtzZdpi0WHG9_yZybd37-18">
+        <mxCell id="aYcp4ZWzaBOmmxDT-Dxf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZtzZdpi0WHG9_yZybd37-15" target="ZtzZdpi0WHG9_yZybd37-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZtzZdpi0WHG9_yZybd37-15" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;正则化&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="159" width="150" height="70" as="geometry" />
+          <mxGeometry x="1082" y="159" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aYcp4ZWzaBOmmxDT-Dxf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZtzZdpi0WHG9_yZybd37-18" target="aYcp4ZWzaBOmmxDT-Dxf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZtzZdpi0WHG9_yZybd37-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;梯度相似性约束&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="283" width="150" height="70" as="geometry" />
+          <mxGeometry x="1305" y="159" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aYcp4ZWzaBOmmxDT-Dxf-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;分割结果图&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1347" y="283" width="150" height="70" as="geometry" />
+          <mxGeometry x="1520" y="159" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
