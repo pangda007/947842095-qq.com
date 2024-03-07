@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T05:12:34.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" etag="ztpBsbKohRf3ECdwLfHD" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-07T05:48:36.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" etag="EG1I1z-T9QUod04jyVlG" version="24.0.1" type="github" pages="4">
   <diagram id="o-U5pev5LdMY_j02ZvJb" name="第 2 页">
     <mxGraphModel dx="1840" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -281,6 +281,106 @@
         </mxCell>
         <mxCell id="VgyTt89GCbOBQOEGU_JN-47" value="&lt;b&gt;否&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="391" y="856" width="27" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Dm_J87mi36w9_58iZCU4" name="第 5 页">
+    <mxGraphModel dx="920" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iXDtatVKyYRuTbQCvseT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-2" target="iXDtatVKyYRuTbQCvseT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-2" value="&lt;b&gt;开始&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-153" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-4" target="iXDtatVKyYRuTbQCvseT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-4" value="&lt;b&gt;输入图像&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-64" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-14" target="iXDtatVKyYRuTbQCvseT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-14" value="&lt;b&gt;计算去噪项&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-4" target="iXDtatVKyYRuTbQCvseT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-17" value="&lt;b&gt;更新演化方程&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="506" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-25" target="iXDtatVKyYRuTbQCvseT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-25" target="iXDtatVKyYRuTbQCvseT-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-25" value="&lt;b&gt;稳定分割结果&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="205" y="605" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-26" value="&lt;b&gt;输出结果&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="205" y="745" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-27" value="&lt;b&gt;结束&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="205" y="837" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-26" target="iXDtatVKyYRuTbQCvseT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-30" value="&lt;b&gt;是&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="251" y="711" width="27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-33" value="&lt;b&gt;否&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="627" width="27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-34" target="iXDtatVKyYRuTbQCvseT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-34" value="&lt;b&gt;计算加性偏差和反射项&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-35" target="iXDtatVKyYRuTbQCvseT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-35" value="&lt;b&gt;模糊C均值聚类&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-36" target="iXDtatVKyYRuTbQCvseT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-36" value="&lt;b&gt;SLIC算法超像素分割&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="22" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-42" target="iXDtatVKyYRuTbQCvseT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-42" value="&lt;b&gt;梯度相似约束函数&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-44" target="iXDtatVKyYRuTbQCvseT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-44" value="&lt;b&gt;正则化和长度约束&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="346" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-46" target="iXDtatVKyYRuTbQCvseT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="iXDtatVKyYRuTbQCvseT-46" target="iXDtatVKyYRuTbQCvseT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXDtatVKyYRuTbQCvseT-46" value="&lt;b&gt;Dirac函数&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="212" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
