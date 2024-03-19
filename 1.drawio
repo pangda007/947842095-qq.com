@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T06:56:19.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="j67ClABLZRWfvGHDpC7z" version="24.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-19T06:48:56.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nIHOTCKHKwF7Ck5dP_AO" version="24.0.6" type="github" pages="5">
   <diagram id="o-U5pev5LdMY_j02ZvJb" name="第 2 页">
     <mxGraphModel dx="947" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="HQSp45tiaORft9MFha6c-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" parent="1" source="VgyTt89GCbOBQOEGU_JN-13" target="VgyTt89GCbOBQOEGU_JN-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VgyTt89GCbOBQOEGU_JN-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;改进的能量项&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="VgyTt89GCbOBQOEGU_JN-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;去噪项&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="163" y="626" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HQSp45tiaORft9MFha6c-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" parent="1" source="VgyTt89GCbOBQOEGU_JN-16" target="VgyTt89GCbOBQOEGU_JN-17" edge="1">
